@@ -1,5 +1,5 @@
 import axios from 'axios';
-const BASE_URL='http://localhost:9191/api/v1';
+const BASE_URL='https://ems-backend-53493.el.r.appspot.com/api/v1';
 
 class Service{
 empSave(emp){
